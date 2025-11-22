@@ -10,14 +10,14 @@ The dashboard is designed with interactive cards, custom icons, navigation butto
 # Dashboard Pages
 
 ## Landing Page
-<img width="902" height="499" alt="u1" src="https://github.com/user-attachments/assets/c61e9944-06ec-4e3f-b835-bc85eb1dc1ba" />
+<img width="902" height="499" alt="u1" src="https://github.com/user-attachments/assets/9e8b6b26-9f32-4343-b6d1-30d49807d5fa" />
 
 * Uber logo with modern UI
 * Navigation buttons: Overview | Details
 * Clean introductory layout with creative graphics
 
 ## Overview Page
-<img width="901" height="510" alt="u2" src="https://github.com/user-attachments/assets/a6906a38-987d-4fad-8588-e803d6359197" />
+<img width="901" height="510" alt="u2" src="https://github.com/user-attachments/assets/215b6d80-f0f4-436f-9412-b042780e104a" />
 
 * KPIs: Completed, Lost Bookings, Revenue, Distance
 * Monthly trend line
@@ -26,7 +26,7 @@ The dashboard is designed with interactive cards, custom icons, navigation butto
 * Ratings and top location cards
 
 ## Details Page
-<img width="899" height="511" alt="u3" src="https://github.com/user-attachments/assets/bac556b8-ed03-4eb4-9e9e-3d2fb72ece68" />
+<img width="899" height="511" alt="u3" src="https://github.com/user-attachments/assets/3c68bf31-b79b-4be2-ba76-c21bf1572c1b" />
 
   * Vehicle-wise table with:
   * Revenue
